@@ -4,3 +4,5 @@ Pichu
 Pikachu
 Dodrio
 Kricketune
+Talonflame
+Braviary
