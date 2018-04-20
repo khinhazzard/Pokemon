@@ -2,7 +2,3 @@ Team 2
 
 Pichu
 Pikachu
-Dodrio
-Kricketune
-Talonflame
-Braviary
