@@ -1,0 +1,18 @@
+Dodrio @ Life Orb  
+Ability: Early Bird  
+Shiny: Yes  
+- Return  
+- Brave Bird  
+- Roost  
+- Jump Kick  
+
+Kricketune @ Leftovers  
+Ability: Swarm  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sticky Web  
+- Leech Life  
+- Toxic  
+- Knock Off  
+
